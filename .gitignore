@@ -1,3 +1,6 @@
+# Dados reais do café — nunca vão pro GitHub
+dados/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
